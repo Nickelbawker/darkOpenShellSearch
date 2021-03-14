@@ -1,0 +1,10 @@
+Search_hint_font="Segoe UI",italic,-9
+Search_text_color=$ControlDarkRichEditTextRest,$ControlDarkRichEditTextRest
+Search_text_color_tint1=$ControlDarkRichEditBackgroundRest
+Search_text_color_mask=#f9f9f9,#f9f9f9
+Search_text_background=$SystemAccentDark1|$StartBackground
+Search_text_background_tint1=$ControlDarkRichEditBackgroundRest
+Search_text_background_mask=#020202
+Search_bitmap=9
+Search_bitmap_tint1=$StartPrimaryText
+Search_bitmap_mask=#020202
